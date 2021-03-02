@@ -24,9 +24,9 @@
 	$ sudo touch /etc/snell/snell-server.conf
 ## step7:Editor "snell-server.conf"
 	[snell-server]
-	listen = 0.0.0.0:13873   #Listening port
-	psk = xxxxxxxxxxxxxx  #your psk
-	obfs = tls    #http/tls
+	listen = 0.0.0.0:13873	#Listening port
+	psk = xxxxxxxxxxxxxx	#your psk
+	obfs = tls		#http/tls
 ## step8:Start with OS:
 	$sudo systemctl daemon-reload  
 	$sudo systemctl start snell.service		#Start snell service
