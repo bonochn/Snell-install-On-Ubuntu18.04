@@ -31,14 +31,14 @@
 	$sudo systemctl daemon-reload  
 	$sudo systemctl start snell.service		#Start snell service
 	$sudo systemctl enable snell.service		#Enable Start with OS
-	$sudo systemctl status snell.service		#snell service 's status
+	$sudo systemctl status snell.service		#snell service status
 		
 ## step9:Config for "Clash for Windows":
-	-name:example  #Remark
+	-name:example  		#Remark
 	type:snell
-	server:xxx.xxx.xxx.xxx  #your vps addres
-	prot:"13281"   #Listening port
-	psk:xxxxxxxx   #your psk
+	server:xxx.xxx.xxx.xxx	#your vps addres
+	prot:"13281"		#Listening port
+	psk:xxxxxxxx		#your psk
 	obfs-opts:
 		mode:tls
 ## Links:https://github.com/surge-networks
