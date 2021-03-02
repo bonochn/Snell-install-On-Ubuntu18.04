@@ -41,9 +41,8 @@
 	psk:xxxxxxxx   #your psk
 	obfs-opts:
 		mode:tls
-			
-Links:https://github.com/surge-networks
-enjoy it!
+## Links:https://github.com/surge-networks
+## enjoy it!
 
 	
   
