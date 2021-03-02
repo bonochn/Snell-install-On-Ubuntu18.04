@@ -1,4 +1,4 @@
-# Snell-Protocol-On-Ubuntu18.04
+# Snell-Protocol Run On Ubuntu18.04
 
 ## step1:Downlaod File form Github
 	$ sudo wget https://github.com/surge-networks/snell/releases/download/v2.0.4/snell-server-v2.0.4-linux-amd64.zip
