@@ -1,5 +1,5 @@
 # Snell-Protocol Run On Ubuntu18.04
-
+	About: https://github.com/surge-networks
 ## step1:Downlaod File form Github
 	$ sudo wget https://github.com/surge-networks/snell/releases/download/v2.0.4/snell-server-v2.0.4-linux-amd64.zip
 ## step2:Unzip File
@@ -42,6 +42,7 @@
 	obfs-opts:
 		mode:tls
 			
+Links:https://github.com/surge-networks
 enjoy it!
 
 	
