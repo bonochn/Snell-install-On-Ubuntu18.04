@@ -4,7 +4,7 @@
 	$ sudo wget https://github.com/surge-networks/snell/releases/download/v2.0.4/snell-server-v2.0.4-linux-amd64.zip
 ## step2:Unzip File
  	$ sudo unzip snell-server-v2.0.4-linux-amd64.zip
-## step3:Move File to /usr/local/bin/
+## step3:Move File to "/usr/local/bin/"
 	$ sudo mv snell-server /usr/local/bin/
 ## step4:Create An File "snell.service" in "/etc/systemd/system/"
 	$ sudo touch /etc/systemd/system/snell.service
