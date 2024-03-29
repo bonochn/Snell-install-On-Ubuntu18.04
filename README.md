@@ -1,9 +1,9 @@
 # Snell-Protocol Install On Ubuntu18.04
 	About: https://github.com/surge-networks
 ## Step1:Downlaod File from Github
-	$ sudo wget https://github.com/surge-networks/snell/releases/download/v2.0.4/snell-server-v2.0.4-linux-amd64.zip
+	$ sudo wget wget https://dl.nssurge.com/snell/snell-server-v4.0.1-linux-amd64.zip
 ## Step2:Unzip File
- 	$ sudo unzip snell-server-v2.0.4-linux-amd64.zip
+ 	$ sudo unzip snell-server-v4.0.1-linux-amd64.zip
 ## Step3:Move File to "/usr/local/bin/"
 	$ sudo mv snell-server /usr/local/bin/
 ## Step4:Create An File "snell.service" in "/etc/systemd/system/"
